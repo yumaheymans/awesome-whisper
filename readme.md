@@ -86,6 +86,7 @@
 - [Free Podcast Transcription](https://freepodcasttranscription.com) - Runs locally in your browser.
 - [Gladia](https://www.gladia.io) - Transcription with real-time processing.
 - [Whisper-Web](https://github.com/PierreMesure/whisper-web) - Local transcription using WebGPU, with optimised fine-tuned models for several languages. (FOSS)
+- [Yap Audio to Text](https://yapapp.cc/audio-to-text) - Runs Whisper in your browser to transcribe audio and video files, with SRT and VTT subtitle export and no upload.
 
 ### Self-hosted
 
